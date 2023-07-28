@@ -1,5 +1,5 @@
 # Visualisation-and-Communication
-A guide and different visuals using matplotlib and seaborn
+Visualisation and presentation using jupyter notebook and python libraries
 
 
 # Loan Data Exploration
